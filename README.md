@@ -12,8 +12,8 @@ Azure Machine Learning 솔루션을 배포해 새로 유입되는 로그의 심�
 # 미션 
 귀하의 머신 러닝 솔루션은 시스템을 훈련할 수 있어야 하고 심각도를 1~6으로 분류할 수 있어야 합니다.
 
-[미션 1](https://github.com/Microsoft-Korea-DX/Mission-Mars/blob/master/1.Mission1.md) : 로그가 기대만큼 깨끗하지 않으므로 시스템을 훈련하기 전에 먼저 R 언어 / 모듈을 이용하고 주어진 포맷에 따라 입력을 사전 처리해야 합니다.
+[미션 1](https://github.com/APAC-EVENT/Mission-Mars/blob/master/1.Mission1.md) : 로그가 기대만큼 깨끗하지 않으므로 시스템을 훈련하기 전에 먼저 R 언어 / 모듈을 이용하고 주어진 포맷에 따라 입력을 사전 처리해야 합니다.
 
-[미션 2](https://github.com/Microsoft-Korea-DX/Mission-Mars/blob/master/2.Mission2.md) : 데이터를 훈련하고 예측을 도출한 뒤 프로젝트를 웹서비스 형태로 게시해야 합니다.
+[미션 2](https://github.com/APAC-EVENT/Mission-Mars/blob/master/2.Mission2.md) : 데이터를 훈련하고 예측을 도출한 뒤 프로젝트를 웹서비스 형태로 게시해야 합니다.
 
-[과제](https://github.com/Microsoft-Korea-DX/Mission-Mars/blob/master/3.Challenge.md): 서로 다른 분류 알고리즘을 활용한 실험으로 정확도를 높여야 합니다.
+[과제](https://github.com/APAC-EVENT/Mission-Mars/blob/master/3.Challenge.md): 서로 다른 분류 알고리즘을 활용한 실험으로 정확도를 높여야 합니다.
