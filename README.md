@@ -22,7 +22,7 @@ Azure Machine Learning 솔루션을 배포해 새로 유입되는 로그의 심�
 * 미션을 진행하실 때, 나누어드릴 Mission Sheet에 **각 미션별 시작 시간과 종료 시간**을 적어주셔야 합니다.
 * 미션을 제일 빨리 수행하신 분에게는 **특별 선물**을 증정할 예정이며, 오후 5시 50분 까지 집계된 내용을 바탕으로 1등에게 선물을 증정하겠습니다. 1등 발표 때에 다시 Track3로 와주세요.
 
-### 미션안내
+### Mission 안내
 
 * [Mission 1](https://github.com/APAC-EVENT/Mission-Mars/blob/master/1.Mission1.md) : 로그가 기대만큼 깨끗하지 않으므로 시스템을 학습시키기 전에 먼저 R 언어 및 모듈을 이용하여 주어진 양식에 따라 입력할 데이터에 사전 처리 작업을 해주어야 합니다.
 * [Mission 2](https://github.com/APAC-EVENT/Mission-Mars/blob/master/2.Mission2.md) : 데이터를 학습시키고 이를 바탕으로 예측 모델을 만든 후 프로젝트를 웹서비스로 게시합니다.
